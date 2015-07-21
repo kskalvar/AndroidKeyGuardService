@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Keyguard Service</string>
+    <string name="hello_world">Android KeyGuard Service has been installed, please reboot!</string>
+    <string name="service_name">KeyGuardService</string>
+
+</resources>
